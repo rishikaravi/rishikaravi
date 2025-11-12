@@ -134,7 +134,7 @@ print(f"Total Impact: {metrics.achievement_matrix}")
 
 ## 💡 ABOUT ME
 
-I am a **data professional with 3+ years of comprehensive experience** spanning analytics, machine learning, and data pipeline development. My journey in data science has been characterized by a relentless pursuit of transforming complex, unstructured data into actionable business intelligence that drives measurable organizational impact.
+I am a **data professional with 2 years of comprehensive experience** spanning analytics, machine learning, and data pipeline development. My journey in data science has been characterized by a relentless pursuit of transforming complex, unstructured data into actionable business intelligence that drives measurable organizational impact.
 
 Currently serving as a **Research Assistant at the University of Texas at Arlington**, I've engineered cutting-edge AI-powered document processing pipelines using **LangChain, FAISS, and lightweight LLMs**, achieving a remarkable **40% improvement in document retrieval accuracy** while simultaneously **reducing research workflow time by 50%**. My implementation of **RAG (Retrieval-Augmented Generation) architecture** has revolutionized how researchers interact with large unstructured document sets, enabling natural language querying with unprecedented precision.
 
